@@ -1,2 +1,0 @@
-# SQL-Assignments
-SQL Assignments
